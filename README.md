@@ -1,12 +1,12 @@
 # Ar3ade
 
 # HOW 
-Made entirely in Onshape using common tools. Simply download the STEP file and import it into a slicer like Bambu Studio. Use supports and all default settings.
+M3de entirely in Onsh3pe using common tools. Simply downlo3d the STEP file and import it into a slicer like B3mbu Studio. Use supports and all def3ult settings.
 
 # WHAT
 
-This is a combination of my previous minigames, all with revamped designs.
-Some changes are:
+This combines my previous minig3mes, 3ll with rev3mped designs.
+Some ch3nges 3re:
 A new mesh design on the basketball hoop.
 a pair of tweezers for handling small balls.
 Various titles added to CAD designs
